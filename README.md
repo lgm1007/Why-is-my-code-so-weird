@@ -6,3 +6,4 @@
 * [Chapter 02. 설계 첫걸음](Chapter02/Chapter02-설계%20첫걸음.md)
 * [Chapter 03. 클래스 설계:모든 것과 연결되는 설계 기반](Chapter03/Chapter03-클래스%20설계-모든%20것과%20연결되는%20설계%20기반.md)
 * [Chapter 04. 불변 활용하기:안정적으로 동작하게 만들기](Chapter04/Chapter04-불변-활용하기-안정적으로-동작하게-만들기.md)
+* [Chapter 05. 응집도:흩어져 있는 것들](Chapter05/Chapter05-응집도-흩어져%20있는%20것들.md)
